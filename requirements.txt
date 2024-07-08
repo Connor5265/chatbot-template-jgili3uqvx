@@ -1,2 +1,9 @@
 streamlit
+streamlit-chat
+python-dotenv
 openai
+langchain
+pypdf
+pydantic==1.10.8
+tiktoken
+faiss-cpu
